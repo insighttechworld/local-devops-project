@@ -20,3 +20,6 @@ My first github local repository
    67  git push -u origin master
    68  history
 
+June 12, 2021
+Name: Remote Developer
+Code: Python
